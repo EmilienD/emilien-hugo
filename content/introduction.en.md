@@ -16,7 +16,7 @@ What I enjoy most in my work is building high tech web apps.
 I like good food, travelling and oh wait this isn't Tinder, sorry.
 
 Anyway if you wanna get in touch, don't hesitate to send me an email
-to [hello@emilienduri.eu](mailto:hello@emilienduri.eu?subject=I%20have%20a%20problem%20that%20I%20think%20can%20be%20solved%20by%20a%20programmer).
+to [hello@emilienduri.eu](mailto:hello@emilienduri.eu?subject=Looking%20for%20a%20dev).
 Maybe we can also go for a beer or something sometimes.
 
 ### "I'm looking for a developer for my company/startup/project, are you interested?"
