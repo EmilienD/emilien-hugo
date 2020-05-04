@@ -1,0 +1,26 @@
+baseURL = "http://emilienduri.eu/"
+languageCode = "en-us"
+title = "Emilien Durieu"
+theme = "hallo"
+[params]
+  [[params.links]]
+    icon = "github"
+    title = "Github"
+    url = "https://github.com/EmilienD"
+  [[params.links]]
+    icon = "linkedin"
+    title = "LinkedIn"
+    url = "www.linkedin.com/in/emilien-durieu-802105133"
+  [params.colors]
+    background = "#000000"
+    foreground = "#D8DBE2"
+    hover = "#58A4B0"
+[languages]
+  [languages.en]
+    title = "Emilien Durieu"
+    weight = 1
+  [languages.fr]
+    title = "Emilien Durieu"
+    weight = 2
+[Author]
+    name = "Emilien"
