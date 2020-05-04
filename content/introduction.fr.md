@@ -21,7 +21,7 @@ Je suis hyper chaud, n'hésite pas à [me contacter](mailto:hello@emilienduri.eu
 Je suis un développeur "full-stack", et j'ai déjà créé des projets de toutes pièces par moi-même ou en équipe.
 Je maîtrise React, NodeJS et PostgresSQL, et j'ai de l'expérience avec MongoDB, Rust et Vue.
 
-### "J'ai besoin d'un site, tu sais m'aider ?"
+### "J'ai besoin d'un site, tu peux m'aider ?"
 
 Certainement! Si tu as besoin d'un webshop, d'un blog ou juste d'un site vitrine, je peux mettre ça en place sans problème. Il suffit de [demander!](mailto:hello@emilienduri.eu?subject=J'ai%20besoin%20d'un%20site)
 
